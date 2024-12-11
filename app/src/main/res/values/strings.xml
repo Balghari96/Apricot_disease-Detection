@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApricotDiseaseDetection</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="select_from_gallery">Select from Gallery</string>
+    <string name="predict">Predict</string>
+    <string name="capture_from_camera">Capture from Camera</string>
+    <string name="view_select_image">view Select Image</string>
+</resources>
